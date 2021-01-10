@@ -159,6 +159,7 @@ img{
 
 .btn:hover {
    background: grey;
+   background-color:grey;
    border: solid #FFFFFF 1px;
    -webkit-border-radius: 20px;
    -moz-border-radius: 20px;
