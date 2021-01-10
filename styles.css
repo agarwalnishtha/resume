@@ -159,10 +159,9 @@ img{
 
 .btn:hover {
    background: #495464;
-   border: solid #FFFFFF 1px;
    -webkit-border-radius: 20px;
    -moz-border-radius: 20px;
-   border-radius: 20px;
+   border-radius: 10px;
    text-decoration: none;
 }
 
