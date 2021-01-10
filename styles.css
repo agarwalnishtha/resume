@@ -158,7 +158,7 @@ img{
 }
 
 .btn:hover {
-   background: #E7EA13;
+   background: grey;
    border: solid #FFFFFF 1px;
    -webkit-border-radius: 20px;
    -moz-border-radius: 20px;
